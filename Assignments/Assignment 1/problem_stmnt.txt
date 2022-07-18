@@ -1,0 +1,10 @@
+Name - B Pravena
+SRN - PES2UG19CS076
+
+Problem Statement -:
+
+Shopping for Products (CRUD application).
+The Eclipse IDE has been used for development of this application.
+Java Spring has been used along with MySQL as the backend DataBase.
+
+We can create a product, read/view, update the cart and delete if any product is not wanted.
