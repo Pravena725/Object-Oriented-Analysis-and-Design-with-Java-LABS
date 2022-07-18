@@ -6,4 +6,4 @@ Assignments 1, 2
 
 Case Study
 
-WEEK 0 - 6
+WEEK 0 - 5
